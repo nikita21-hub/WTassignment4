@@ -1,37 +1,25 @@
 <!DOCTYPE html>
     <head>
         <title>Data class in php</title>
-
-
-
-        
+        <!-- CSS only -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-        
-
+        <!-- JS, Popper.js, and jQuery -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-
-
-
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-
-
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-
-
-
        <style>
            
            .jumbotron{
-               height: 150px;
-               padding-top: 30px;
+               height: 100px;
+               padding-top: 20px;
                border-radius: 0px;
                background-color: black ;
             }
             .container{
                 align-items: center;
                 justify-content: center; 
-                padding: 50px 50px;
+                padding: 40px 40px;
                 margin-top: -30px;
             }
             #table{
@@ -46,11 +34,11 @@
                 footer{
                 position: fixed;
                 left: 0;
-                height: 20%;
+                height: 10%;
                 bottom: 0px;
-                width: 150%;
-                background-color: rgb(153, 51, 102);
-                color: white;
+                width: 100%;
+                background-color: rgb(0, 0, 0);
+                color: black;
                 text-align: center;
                 }
                 
